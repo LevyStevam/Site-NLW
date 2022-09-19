@@ -16,4 +16,4 @@ Projeto construído do evento next week level da Rocketseat.
 
 ## Contato:
 
-[link para acessar:](stevamlevy@gmail.com)
+-stevamlevy@gmail.com
