@@ -6,7 +6,7 @@
 
 Projeto construído do evento next week level da Rocketseat.
 
-[link para acessar:](https://levystevam.github.io/Site-NLW/)
+[link do projeto](https://levystevam.github.io/Site-NLW/)
 
 ## Tecnologias: 
  
