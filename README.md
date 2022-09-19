@@ -8,8 +8,12 @@ Projeto construído do evento next week level da Rocketseat.
 
 [link para acessar:](https://levystevam.github.io/Site-NLW/)
 
-## Tecnologias 
+## Tecnologias: 
  
 -html
 -css
--git e github 
+-git e github
+
+## Contato:
+
+[link para acessar:](stevamlevy@gmail.com)
